@@ -1,0 +1,1 @@
+/usr/bin/g++-8 -fPIC -g  -shared -Wl,-soname,liblibepnp.so -o ../lib/liblibepnp.so CMakeFiles/libepnp.dir/src/epnp.cpp.o 

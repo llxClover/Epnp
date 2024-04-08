@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/epnp.h
+opencv/cv.h
+-
+
+/home/llx/Downloads/EPnP/cpp/src/main.cpp
+fstream
+-
+iostream
+-
+epnp.h
+/home/llx/Downloads/EPnP/cpp/src/epnp.h
+

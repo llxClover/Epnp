@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libepnp_static.a  CMakeFiles/epnp_static.dir/src/epnp.cpp.o
+/usr/bin/ranlib ../lib/libepnp_static.a

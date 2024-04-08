@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/llx/Downloads/EPnP/cpp/build",
+  "command": "/usr/bin/g++-8   -I/home/llx/Downloads/EPnP/cpp/include -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/main.dir/src/main.cpp.o -c /home/llx/Downloads/EPnP/cpp/src/main.cpp",
+  "file": "/home/llx/Downloads/EPnP/cpp/src/main.cpp"
+},
+{
+  "directory": "/home/llx/Downloads/EPnP/cpp/build",
+  "command": "/usr/bin/g++-8  -Depnp_EXPORTS -I/home/llx/Downloads/EPnP/cpp/include -isystem /usr/local/include/opencv4  -g -fPIC   -std=gnu++11 -o CMakeFiles/epnp.dir/src/epnp.cpp.o -c /home/llx/Downloads/EPnP/cpp/src/epnp.cpp",
+  "file": "/home/llx/Downloads/EPnP/cpp/src/epnp.cpp"
+}
+]
